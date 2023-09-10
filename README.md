@@ -1,4 +1,4 @@
-# Conducting RFM Analysis on a data set containing Invoice no,StockCode,Description,Quantity,InvoiceDate,Price,Customer ID,Country and revenue as columns
+# Conducting RFM Analysis on a retail sales data set
 
 ## RFM stands for recency, frequency and monetary analysis. RFM analysis is usually done on transactions data. The data we used contains details about online transactions from year 2009-2011.
 
